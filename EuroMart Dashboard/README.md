@@ -73,7 +73,7 @@ The dashboard helps business users monitor key performance indicators (KPIs), id
 
 ## 📸 Dashboard Preview
 
-![EuroMart Dashboard](dashboard.jpg)
+![EuroMart Dashboard](EuroMart_Dashboard.jpg)
 
 
 ## 🚀 Future Enhancements
