@@ -59,7 +59,7 @@ The dashboard enables users to monitor sales trends, compare outlet performance,
 ---
 ## 📄 Full Dashboard Report
 
-[📥 View Dashboard PDF](Supermarket_Sales_Dashboard.pdf)
+[📥 View Dashboard PDF](Supermarket_Sales_Dashboard.jpg)
 
 ## 🚀 Future Improvements
 
