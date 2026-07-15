@@ -71,11 +71,10 @@ The dashboard helps business users monitor key performance indicators (KPIs), id
 
 ---
 
-## 🚀 Live Dashboard
+## 📸 Dashboard Preview
 
-👉 **Click here to explore the interactive dashboard:**
+![EuroMart Dashboard](dashboard.jpg)
 
-https://datastudio.google.com/reporting/your-dashboard-link
 
 ## 🚀 Future Enhancements
 
