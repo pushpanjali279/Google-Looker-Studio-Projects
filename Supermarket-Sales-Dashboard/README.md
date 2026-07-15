@@ -57,7 +57,9 @@ The dashboard enables users to monitor sales trends, compare outlet performance,
 - KPI cards provide a quick summary of overall business performance.
 
 ---
+## 📄 Full Dashboard Report
 
+[📥 View Dashboard PDF](Supermarket_Sales_Dashboard.pdf)
 
 ## 🚀 Future Improvements
 
